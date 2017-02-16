@@ -1,0 +1,10 @@
+{
+  "name": "webrtc-app",
+  "version": "0.0.1",
+  "description": "WebRTC App that combines peer connection (audio & video) and signaling.",
+  "dependencies": {
+    "node-static": "^0.7.9",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {}
+}
